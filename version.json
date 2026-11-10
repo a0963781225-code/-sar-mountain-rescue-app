@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "2.0",
   "releaseNotes": "1. 整合搜救房間五大黃金法則。\n2. 支援線上 Firebase + 離線 P2P 網狀暗網雙軌同步。\n3. 支援魯地圖等高線極致放大與音效震動 3 模式。",
   "downloadUrl": "https://github.com/a0963781225-code/-sar-mountain-rescue-app/releases/download/v1.0/app-release-unsigned.apk"
 }
